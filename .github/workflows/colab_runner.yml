@@ -22,4 +22,4 @@ jobs:
 
       - name: Execute notebook
         run: |
-          jupyter nbconvert --execute --to notebook --inplace air-nuggets.ipynb
+          jupyter nbconvert --execute --to notebook --inplace air-nuggets-collabcode.ipynb
